@@ -202,7 +202,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Executive%20View.png)
 
 
-you can find the full report file here : [Report](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Business%20Intelligence%20-360%20Template.pbit)
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiYThkNDE3MWUtY2UyOC00YjBjLWFmNGQtZGUyNjMzYzU3YTBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Key Insights
